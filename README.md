@@ -1,6 +1,9 @@
-## Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, i'm Xira ^^ !
-
-<img src="https://github.githubassets.com/images/mona-whisper.gif"></img>
+<div align = "center">
+    <img width="200" heigth="220" src="https://media.discordapp.net/attachments/985321287217987586/1036405779651108935/xira1.jpg">
+    </br>
+  <h1>Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, i'm Xira ^^ !</h1>
+<br>
+</div>
 
 ## My Github Contribution Graph 📈
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=XiraSec210&theme=react-dark&hide_border=true)
